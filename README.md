@@ -1,3 +1,3 @@
- # Bouncing Ball
- 
- Make a Bouncing Ball and Block with Canvas and JS
+# Bouncing Ball
+
+Make a Bouncing Ball and Block with Canvas and JS
